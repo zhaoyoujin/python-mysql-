@@ -1,5 +1,5 @@
 # python-mysql-
-python成绩管理系统，使用mysql数据库
+python成绩管理系统，使用mysql数据库,涉及数据库增删改查排序
 
 workbench6.3.9
 创建表
