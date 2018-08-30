@@ -1,5 +1,9 @@
 import pymysql.cursors
 
+#作者       Voyage
+#创建时间   2018/8/30  16:01   当前系统时间
+#文件       Score
+#IDE       PyCharm
 
 """CREATE TABLE 'users' ('id' INT(11) NOT NULL AUTO_INCREMENT,    
 'StuNo' INT(11) NOT NULL,    
